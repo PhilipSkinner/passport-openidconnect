@@ -1,6 +1,6 @@
 {
-  "name": "passport-openidconnect",
-  "version": "0.0.2",
+  "name": "numero-passport-openidconnect",
+  "version": "0.0.5",
   "description": "OpenID Connect authentication strategy for Passport.",
   "keywords": [
     "passport",
@@ -15,6 +15,9 @@
     "name": "Jared Hanson",
     "email": "jaredhanson@gmail.com",
     "url": "http://www.jaredhanson.net/"
+  },
+  "publishConfig":{
+    "registry":"http://npm"
   },
   "repository": {
     "type": "git",
